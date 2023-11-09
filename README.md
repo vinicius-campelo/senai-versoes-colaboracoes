@@ -2,4 +2,5 @@
 
 $\Large{Ola!\ {\color{red} testando\ novo\ {\color{green}commit. }}}$ 
 
+Lembrei do comando: git status
 Lembrei do comando: git commit
